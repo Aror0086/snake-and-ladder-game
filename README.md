@@ -1,4 +1,5 @@
-Snakes and Ladders Game
+**Snakes and Ladders Game**
+
 Welcome to the Snakes and Ladders game! This simple web-based game is implemented using HTML, CSS, and JavaScript. Have fun rolling the dice and climbing ladders while avoiding the slippery snakes.
 
 To play the game, simply open the index.html file in your web browser. The game board will be displayed, and you can start rolling the dice to move your game piece across the board.
